@@ -26,6 +26,15 @@ Email Me 👉 ✉️ **himanshusharma20969@gmail.com** For Collaboration/Project
 ![](https://streak-stats.demolab.com/?user=HIMANSHU-SHARMA-1&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=HIMANSHU-SHARMA-1&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+## 📈 Development Activity
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HIMANSHU-SHARMA-1&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HIMANSHU-SHARMA-1&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HIMANSHU-SHARMA-1&theme=tokyonight"/>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HIMANSHU-SHARMA-1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
