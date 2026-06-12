@@ -27,10 +27,14 @@ Email Me 👉 ✉️ **himanshusharma20969@gmail.com** For Collaboration/Project
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=HIMANSHU-SHARMA-1&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 🔥 Contribution Graph
+## 📊 Contribution Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HIMANSHU-SHARMA-1&theme=tokyonight" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HIMANSHU-SHARMA-1&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://ghchart.rshah.org/HIMANSHU-SHARMA-1" />
 </p>
 
 
