@@ -33,9 +33,7 @@ Email Me 👉 ✉️ **himanshusharma20969@gmail.com** For Collaboration/Project
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HIMANSHU-SHARMA-1&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/HIMANSHU-SHARMA-1" />
-</p>
+
 
 
 
