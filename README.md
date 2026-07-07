@@ -1,6 +1,7 @@
 # 💫 Hi 👋, I'm Himanshu
 **A passionate MERN Stack Developer || Fullstack Developer**
 
+Email Me 👉 ✉️ **himanshusharma20969@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Collabspace
 - 🌱 **I’m currently learning:** FullStack Development
