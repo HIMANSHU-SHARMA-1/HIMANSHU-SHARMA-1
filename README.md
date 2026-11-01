@@ -5,7 +5,7 @@
 Email Me 👉 ✉️ **himanshusharma20969@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** chargeWise-Bharat
-- 🌱 **I’m currently learning:** System Designing,AI Engineer,Backend
+- 🌱 **I’m currently learning:** System Designing, AI Engineering, Backend
 - 🤔 **I’m looking for help with:** currently none
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** himanshusharma20969@gmail.com
