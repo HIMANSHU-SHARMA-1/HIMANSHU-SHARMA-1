@@ -4,12 +4,12 @@
 
 Email Me 👉 ✉️ **himanshusharma20969@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Collabspace
-- 🌱 **I’m currently learning:** FullStack Development
+- 🔭 **I’m currently working on:** chargeWise-Bharat
+- 🌱 **I’m currently learning:** System Designing,AI Engineer,Backend
 - 🤔 **I’m looking for help with:** currently none
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** himanshusharma20969@gmail.com
-- 😄 **Pronouns:** Himanshu
+- 😄 **Pronouns:** He/His
 - ⚡ **Fun fact:** Let us aspire to inspire before we expire
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ifeel_like90s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshumern/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshusharma20969@gmail.com) 
