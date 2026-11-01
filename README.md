@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Himanshu
 
-**A passionate MERN Stack Developer || Fullstack Developer**
+**A passionate AI Engineer || Fullstack Developer**
 
 Email Me 👉 ✉️ **himanshusharma20969@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
